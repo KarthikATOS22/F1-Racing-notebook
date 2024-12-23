@@ -1,3 +1,7 @@
+#Reference
+https://medium.com/@aayushkumargupta/formula1-racing-project-using-azure-cf70f4a5b4ca
+https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020
+
 # Formula1 Racing Project using Azure Databricks, ADLS & ADF
 
 This repository serves as documentation for a Formula1 Racing project created using Azure services for data engineering. The project aims to process Formula 1 racing data, create an automated data pipeline, and make the data available for presentation and analysis purposes.
